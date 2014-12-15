@@ -1,0 +1,1 @@
+tradingzone.blade.php
